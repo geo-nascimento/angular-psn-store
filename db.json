@@ -1,0 +1,92 @@
+{
+	"games":[
+		{
+			"id": 1,
+			"type": "DIGITAL PS4|PS5",
+			"price": "299.00",
+			"gameLabel": true,
+			"cover": "../../../assets/images/eldenRing.png",
+			"gameName": "Elden Ring",
+			"distribution": "Bandai Namco Entertainment America Inc",
+			"tags": ["PS4", "PS5", "Edição Padrão"],
+			"description": "Elden Ring é um jogo eletrônico de RPG de ação em terceira pessoa, desenvolvido pela FromSoftware e publicado pela Bandai Namco Entertainment. O jogo é um projeto colaborativo entre o diretor Hidetaka Miyazaki e o romancista de fantasia George R. R. Martin."
+		},
+		{
+			"id": 2,
+			"type": "DIGITAL PS4|PS5",
+			"price": "199.00",
+			"gameLabel": true,
+			"cover": "../../../assets/images/ds3.jpg",
+			"gameName": "Dark Souls 3",
+			"distribution": "Bandai Namco Entertainment America Inc",
+			"tags": ["PS4", "PS5", "Edição Padrão"],
+			"description": "Dark Souls III é um jogo do género RPG de ação, o quarto da série Souls, desenvolvido pela FromSoftware e co-realizado por Hidetaka Miyazaki, o criador da série. "
+		},
+		{
+			"id": 3,
+			"type": "DIGITAL PS4|PS5",
+			"price": "120.00",
+			"gameLabel": false,
+			"cover": "../../../assets/images/dragonsDogma.jpg",
+			"gameName": "Dragons Dogma: Dark Arisen",
+			"distribution": "Capcom",
+			"tags": ["PS4", "PS5", "Edição Expandida"],
+			"description": "ragon's Dogma (ドラゴンズドグマ Doragonzu Doguma?, lit. Dogma do dragão) é um RPG eletrônico de Ação desenvolvido e publicado pela Capcom. O jogador controla uma personagem de gênero selecionável e aparência customizável, incluindo sua 'vocação', o sistema de classes do jogo. É possível escolher vários tipos de vocações: Fighter, Warrior, Mystic Knight, Strider, Ranger, Assassin, Mage, Sorcerer e Magic Archer"
+		},
+		{
+			"id": 4,
+			"type": "DIGITAL PS5",
+			"price": "399.00",
+			"gameLabel": false,
+			"cover": "../../../assets/images/RE4.png",
+			"gameName": "Resident Evil 4",
+			"distribution": "Capcom",
+			"tags": ["PS5", "Edição Padrão"],
+			"description": "Resident Evil 4, conhecido no Japão como Biohazard 4, é um jogo eletrônico de survival horror e tiro em terceira pessoa desenvolvido e publicado pela Capcom, lançado originalmente para o GameCube em 2005 e relançado nessa aclamada reimaginação. É o sexto jogo principal da franquia Resident Evil. A história segue o agente especial Leon S. Kennedy"
+		},
+		{
+			"id": 5,
+			"type": "DIGITAL PS5",
+			"price": "399.00",
+			"gameLabel": false,
+			"cover": "../../../assets/images/finalfantasy.png",
+			"gameName": "Final Fantasy 7 Remake",
+			"distribution": "Square ENIX",
+			"tags": ["PS5", "Edição Padrão"],
+			"description": "Final Fantasy VII Rebirth é um próximo jogo de RPG de ação desenvolvido e publicado pela Square Enix, com lançamento previsto para PlayStation 5 em 29 de fevereiro de 2024"
+		},
+		{
+			"id": 6,
+			"type": "DIGITAL PS4|PS5",
+			"price": "150.00",
+			"gameLabel": true,
+			"cover": "../../../assets/images/bloodborne.jpeg",
+			"gameName": "Bloodborne",
+			"distribution": "Bandai Namco Entertainment America Inc",
+			"tags": ["PS4", "PS5", "Edição Padrão"],
+			"description":"Bloodborne é um RPG eletrônico de ação produzido pela FromSoftware e publicado pela Sony Computer Entertainment a 24 de Março de 2015 em exclusivo para a PlayStation 4, sendo o quarto game da serie Souls. Bloodborne foi realizado por Hidetaka Miyazaki, diretor de Demon's Souls e Dark Souls"
+		},
+		{
+			"id": 7,
+			"type": "DIGITAL PS4|PS5",
+			"price": "39.00",
+			"gameLabel": true,
+			"cover": "../../../assets/images/oni2.jpg",
+			"gameName": "Onimusha 2: Samurai's Destiny",
+			"distribution": "Capcom",
+			"tags": ["PS4", "PS5", "Edição Padrão"],
+			"description":"Onimusha 2: Samurai's Destiny é um jogo exclusivo para PlayStation 2, produzido pela Capcom. Foi lançado em agosto de 2002 nos Estados Unidos. O personagem principal, diferente do primeiro jogo, é Jubei Yagyu. O contexto de Onimusha 2 ocorre 13 anos após o primeiro jogo"
+		},
+		{
+			"id": 8,
+			"type": "DIGITAL PS4|PS5",
+			"price": "39.00",
+			"gameLabel": false,
+			"cover": "../../../assets/images/skyrin.jpeg",
+			"gameName": "The Elder Scrolls V: Skyrim",
+			"distribution": " Bethesda Softworks",
+			"tags": ["PS4", "PS5", "Edição Padrão"],
+			"description": "The Elder Scrolls V: Skyrim é um jogo eletrônico de RPG de ação desenvolvido pela Bethesda Game Studios e publicado pela Bethesda Softworks. É o quinto jogo principal da série The Elder Scrolls, seguindo The Elder Scrolls IV: Oblivion."
+		}
+	]
+}

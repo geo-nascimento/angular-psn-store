@@ -1,0 +1,70 @@
+.card-detail__container {
+	padding: 30px;
+	height: 100%;
+	width: 100%;
+	background-color: rgb(24, 26, 27);
+	position: relative;
+}
+
+.card-detail__container__title {
+	font-family: Helvetica;
+	font-size: 50px;
+	font-weight: lighter;
+	color: #fff;
+	margin-bottom: 16px;
+}
+
+.card-detail__container__distribution {
+	margin-bottom: 10px;
+}
+
+.card-detail__container__distribution span {
+	color: #fff;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.card-detail__container__tags {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin-bottom: 10px;
+	gap: 3px;
+}
+
+.card-detail__container__tags span {
+	padding: 3px;
+	border: solid 1px #fff;
+	color: #fff;
+	font-size: 12px;
+}
+
+.game-description {
+	width: 100%;
+	height: 170px;
+	overflow-y: auto;
+	resize: none;
+	border: none;
+	padding: 0.5rem;
+	box-shadow: 0 0 0 0;
+	outline: 0;
+	background-color: rgb(24, 26, 27);
+	font-size: 16px;
+	color: #fff;
+	font-family: Helvetica;
+	text-align: justify;
+}
+
+
+.game-price {
+	position: absolute;
+	padding: 10px;
+	right: 30px;
+	bottom: 30px;
+	color: #fff;
+	font-family: Helvetica;
+	border-radius:5px;
+	background: rgb(2, 0, 36);
+	background: linear-gradient(90deg, rgba(1, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(9, 9, 121, 1) 100%);
+
+}

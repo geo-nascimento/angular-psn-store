@@ -1,0 +1,6 @@
+
+<a (click)="openDialog('0ms', '0ms', game.id)" class="card__container" style="cursor: pointer;">
+	<img class="card__img" [src]="game.cover" alt="game cover">
+	<app-card-label [cardLabel]="game.gameLabel"></app-card-label>
+	<app-card-pricing [gamePrice]="game.price" [gameType]="game.type"></app-card-pricing>
+</a>

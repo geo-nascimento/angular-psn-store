@@ -1,0 +1,12 @@
+<div class="card-detail__container" *ngIf="game">
+	<h1 class="card-detail__container__title">{{game.gameName}}</h1>
+
+	<div class="card-detail__container__distribution">
+		<span >{{game.distribution}}</span>
+	</div>
+	<div class="card-detail__container__tags" >
+		<span *ngFor="let item of game.tags">{{item}}</span>
+	</div>
+	<textarea class="game-description" disabled [value]="game.description"></textarea>
+	<p class="game-price">{{game.price| currency:'BRL':true:'1.2-2' }}</p>
+</div>
